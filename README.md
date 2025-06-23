@@ -1,2 +1,2 @@
-# Stock-Market-Analysis
-Apple stock price prediction for the next 30 days using historical data (2012–2019). Models include ARIMA, SARIMA, VAR, XGBoost, and Random Forest for accurate forecasting. The project features data preprocessing, feature engineering, and hyperparameter tuning. Deployed as a Streamlit web app for interactive predictions and trend visualization.
+# Stock Market Analysis 
+Forecasts Apple stock prices for the next 30 days using historical data from (2012-2019) with ARIMA, SARIMA, VAR, XGBoost, Random Forest, and LSTM models. The project includes data preprocessing, hyperparameter tuning, and is deployed as a Streamlit app for interactive predictions. It also includes datasets for forecasting Apple (2012–2025), Amazon, Microsoft, and Tesla stock prices.
